@@ -1,1 +1,1 @@
-# G-Contest 24
+# Credit Analysis
