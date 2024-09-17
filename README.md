@@ -11,12 +11,12 @@ This repository contains the final submission for the Data Analytics Competition
 ## Data Files:
 The project utilizes six data files:
 
-F302: Customer loans as of December 2020.
-F303: Loans categorized under Circular 01.
-F304: Credit card provisioning data.
-F305: Loan classifications based on CIC.
-F402: Details of debt sold.
-F502: Information on collateral.
+- F302: Customer loans as of December 2020.
+- F303: Loans categorized under Circular 01.
+- F304: Credit card provisioning data.
+- F305: Loan classifications based on CIC.
+- F402: Details of debt sold.
+- F502: Information on collateral.
 
 ## Data Analysis
 - Data Overview: General trends in Bank X's loan activity and comparisons to other banks in the market.
