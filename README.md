@@ -1,4 +1,5 @@
 # Credit Risk Analysis
+![image](https://github.com/user-attachments/assets/806a80f1-9bed-45ea-9329-8879c67bbdba)
 
 ## Overview
 This repository contains the final submission for the Data Analytics Competition, organized by the Economics Club of one university in Viet Nam. The project involves credit analysis for Bank X, using real-world data provided as part of the contest. The analysis includes evaluating loan portfolios, customer segmentation, and financial risk assessment.
